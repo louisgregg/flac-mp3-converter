@@ -1,0 +1,7 @@
+# ignore everything
+*
+# but not these files
+!convert.py
+!requirements.txt
+!.gitignore
+!README.md
